@@ -26,16 +26,12 @@ https://www.rocketweb3.io<br><br>
 ![UI](https://github.com/rocketdlt/grant/blob/main/UI.png)
 - Data Model<br>
  **Applied research:**  Institutional-grade research reports on macro and sector trends on Moonbeam around but not limited to DeFi, NFT, Gaming, Metaverse, L1/L2 and Middleware. That will consist of an interdisciplinary science and technology approach on the blockchain and cryptocurrency space (in the broad sense, referring also to digital assets in blockchain applications and all that is implied by the notion of ‘cryptocurrency’). Handled by academic researchers, subjects will be ranged from the theoretical understanding of the blockchain and cryptocurrencies space to new applications and use cases, to topics specific to Moonbeam protocol and tools. <br>
-   ![DataModelOverview](https://github.com/rocketdlt/grant/blob/main/DATA%20MODEL%20WEB3%20(2).jpg)
+   ![DataModelOverview](https://github.com/rocketdlt/moonbeam/blob/main/Learning-by-doing.PNG)
 **News and articles:** Newsletters on metaverse, DeFi, NFT, gaming space and other.
 **Weekly/monthly market outlook with ad-hoc reports on Moonbeam:** Industry insights together with competitor initiatives and landscape analysis. Data analytics, marketing, trends, opportunities, risks and new projects.<br>
 **Radar:** Staking, Defi, NFT, Gaming, ICO and all Moonbeam, Polkadot/Kusama investment opportunities aggregated on one place per category.<br>
 **Learning-by-doing:** Tech talent pool capacity building through a project-oriented program run with external training partners. That will be achieved with or without W3Foundation tech mentorship. <br>
  ![training](https://github.com/rocketdlt/grant/blob/main/Polkadot%20(1).jpg)<br>
-
-- Tech stack ( preliminary overview)
- ![techStack](https://github.com/rocketdlt/grant/blob/main/RDLT%20Tech%20Stack2.jpg)
-
 - Core components, protocols, architecture (preliminary overview)<br>
 At its inception, while building Substrate developer talent pool with its training partners via learning-by-doing methodology, Rocketweb3 will help raising and nurturing diverse, courageous generations of blockchain solutions already in the pipeline with a strong focus on projects with real-world operation and income generating activities. <br>
 ![components](https://github.com/rocketdlt/grant/blob/main/Core%20Components.jpg)
