@@ -31,7 +31,7 @@ https://www.rocketweb3.io<br><br>
 **Weekly/monthly market outlook with ad-hoc reports on Moonbeam:** Industry insights together with competitor initiatives and landscape analysis. Data analytics, marketing, trends, opportunities, risks and new projects.<br>
 **Radar:** Staking, Defi, NFT, Gaming, ICO and all Moonbeam, Polkadot/Kusama investment opportunities aggregated on one place per category.<br>
 **Learning-by-doing:** Tech talent pool capacity building through a project-oriented program run with external training partners. That will be achieved with or without W3Foundation tech mentorship. <br>
- ![training](https://github.com/rocketdlt/grant/blob/main/Polkadot%20(1).jpg)<br>
+ ![training](https://github.com/rocketdlt/moonbeam/blob/main/Learning-by-doing2.PNG)<br>
 - Core components, protocols, architecture (preliminary overview)<br>
 At its inception, while building Substrate developer talent pool with its training partners via learning-by-doing methodology, Rocketweb3 will help raising and nurturing diverse, courageous generations of blockchain solutions already in the pipeline with a strong focus on projects with real-world operation and income generating activities. <br>
 ![components](https://github.com/rocketdlt/grant/blob/main/Core%20Components.jpg)
