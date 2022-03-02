@@ -1,0 +1,315 @@
+# moonbeam
+# W3F Grant Proposal
+
+- **Project Name:** RocketDLT 
+- **Team Name:** Rocket Team ( ICM Switzerland PLC)
+- **Payment Address:** BTC address: 32sLU5fgXxRfz89Hh6ov6ZHj3R8bqrzvhR
+
+
+## Project Overview
+
+### Overview
+
+- RocketWeb3: Rocket distributed ledger technology and the blockchain (RDLT) or RocketWeb3
+- Rocketweb3 is a holistic, research, education, start-up, and innovation accelerator together with community-driven endeavor at the intersection of the real- world and digital-world for blockchain mass adoption. <br>
+![Rocketweb3](https://github.com/rocketdlt/grant/blob/main/Rweb3%20solution%20(4).jpg)
+
+- RocketWeb3’s ultimate goal is to operate as a multi-protocol DAO providing community-driven and self-governed projects incubation, venture funding, IT training, legal consultancy, business strategizing, and many other building resources matching investors, innovators, entrepreneurs, and prospective community. We do believe the future of the blockchain will be optimized only through values and endeavors that are immersed in non-tribalism, collaboration, exploration, and multi-chain at its core and **Polkadot or Kusama as open and network protocol that allows arbitrary data to be transferred across blockchains offers the right infrastructure to achieve our vision.** 
+
+- The internet of today is a winner-take-all space while the Web3 with the blockchain is an opportunity for everyone to harness the potential of an equitable and truly borderless economy but there is a lack of understanding of the technology. Emerging technologies like virtual reality or immersive reality give users the possibility to try headsets and then visualize and experience the benefits the technology offers but looking at the blockchain, everything appears abstract and highly technical. Additionally, the lack of regulation of the blockchain and cryptocurrencies together with more and more users’ concerns about audit and compliance are not facilitating mass adoption. However, That new iteration of the internet is also our best hope for truly transparent, social, and environmental impact but we are already witnessing concentration of its positive effects within a small elite. **Blockchain democratization is our objective and we aim to put the technology in the hands of entrepreneurs, end-users, or practitioners and gives them a blank canvas on which to run their own, small-scale innovation projects.**<br>
+RocketWeb3.io is also the result of difficulties encountered during our blockchain entrepreneurship attempt: that allows us to highlight obstacles and especially the low-tech talent pool. For example, the result of the disequilibrium between Web 3 developers and the available talent pool is a tremendously high set-up cost leading to entrepreneurship only inside the boundary of a small elite. <br>
+Rocket Team is dedicated to fulfilling the global promise of blockchain technology by leveraging the Polkadot / Kusama protocol.
+ 
+### Project Details 
+- Mockups/designs of any UI components<br>
+https://www.rocketweb3.io<br><br>
+![UI](https://github.com/rocketdlt/grant/blob/main/UI.png)
+- Data Model<br>
+ **Applied research:**  Institutional-grade research reports on macro and sector trends on Polkadot/Kusama blockchain around but not limited to DeFi, NFT, Gaming, Metaverse, L1/L2 and Middleware. That will consist of an interdisciplinary science and technology approach on the blockchain and cryptocurrency space (in the broad sense, referring also to digital assets in blockchain applications and all that is implied by the notion of ‘cryptocurrency’). Handled by academic researchers, subjects will be ranged from the theoretical understanding of the blockchain and cryptocurrencies space to new applications and use cases, to topics specific to Polkadot/Kusama protocol and tools. <br>
+   ![DataModelOverview](https://github.com/rocketdlt/grant/blob/main/DATA%20MODEL%20WEB3%20(2).jpg)
+**News and articles:** Newsletters on metaverse, DeFi, NFT, gaming space and other.
+**Weekly/monthly market outlook with ad-hoc reports on Polkadot/Kusama:** Industry insights together with competitor initiatives and landscape analysis. Data analytics, marketing, trends, opportunities, risks and new projects.<br>
+**Radar:** Staking, Defi, NFT, Gaming, ICO and all Polkadot/Kusama investment opportunities aggregated on one place per category.<br>
+**Learning-by-doing:** Tech talent pool capacity building through a project-oriented program run with external training partners. That will be achieved with or without W3Foundation tech mentorship. <br>
+ ![training](https://github.com/rocketdlt/grant/blob/main/Polkadot%20(1).jpg)<br>
+
+- Tech stack ( preliminary overview)
+ ![techStack](https://github.com/rocketdlt/grant/blob/main/RDLT%20Tech%20Stack2.jpg)
+
+- Core components, protocols, architecture (preliminary overview)<br>
+At its inception, while building Substrate developer talent pool with its training partners via learning-by-doing methodology, Rocketweb3 will help raising and nurturing diverse, courageous generations of blockchain solutions already in the pipeline with a strong focus on projects with real-world operation and income generating activities. <br>
+![components](https://github.com/rocketdlt/grant/blob/main/Core%20Components.jpg)
+At term,RocketWeb3 will harness tons of data, researchers and collective intelligence throughout communities driven distrubuted autonomous organization(DAO). Early-stage innovations from the idea concept to market adoption will be incubated that DAO.
+![DAO](https://github.com/rocketdlt/terra/blob/main/DAO%20DataModel%20.jpg)
+  
+-  PoC/MVP or other relevant prior work or research on the topic<br>
+https://www.rocketweb3.io/teaser
+![POC](https://github.com/rocketdlt/grant/blob/main/Radar.png)
+
+- What your project is not or will not provide or implement<br>
+ 
+We are a blockchain traning center and do not have the objective to replace our external training partners to become an academy but instead, we want to continue to increase the number of training partners in order to significantly improve the tech talent pool. <br>
+
+Concerning our service Radar, we will limit our role to aggregating and listing ico, defi, metaverse or staking opportunities and won’t provide any advice to investors on their decision.
+
+### Ecosystem Fit 
+- Where and how does your project fit into the ecosystem?<br>
+
+Rocketweb3 is a global and holistic approach dedicated to fulfilling the global promise of blockchain technology by leveraging research, education, news and startup incubation, and acceleration.  From Defi to gaming,NFT, Bridge or SmartContrat, we aim to provide a wide range of products and services fitting the entire ecosystem category.
+
+- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+
+RocketWeb3 targets blockchain protocols, end-user, crypto investors and policymakers with product and service leading mass adoption.<br>
+|  |  |
+| ------------- | -------------------------- |
+| **Polkadot/ Kusama network**|Ecosystem growth, institutional-grade research reports on Polkadot/Kusama network macro and sector trends focussing but not limited to DeFi, NFT, Gaming, Metaverse, L1/L2 and Middleware. Project-oriented tech capacity building through the learning-by-doing program. |
+| **Entrepreneurs** parachain/dapp/wallet/UI developers, designers..etc..|One-stop-shop for full-stack tech and non-tech entrepreneurship empowerment whatever the needs. |
+| **Policymakers**  |Conferences, seminars, events and uses case discussion of the blockchain impact on traditional economic and social infrastructure and regulation needs.|
+| **End-user**|Education, evangelization, and awareness to democratize access and understanding of the blockchain and cryptocurrencies. |
+| **Crypto-investors** |Aggregation of staking, ico, and other investments opportunities  classified per different category in one place. |
+
+- What need(s) does your project meet?
+#### The problem we solve
+The blockchain is the technology that will shape the future of the economy but there are still some mass adoption obstacles to overcome.
+- Compartmentalization of different protocols;
+- Audit/compliance concerns coupled with regulatory uncertainty ;
+- Perceived as abstract and highly technical with low convergence with real-people needs.<br>
+**A major adoption barrier we address if the mismatch between Polkadot/Kusama developers talent pool and the higher demand creating salary inflation and entrepreneurship limitation to a small niche**<br>
+**For tech and non-tech entrepreneurs:** It’s not enough just to be an innovator with a great idea or even build a great piece of tech! To be successful, there is a need to have a keen understanding of what it means to be an entrepreneur, what solutions to use, how the business markets work. Either tech or non-tech, Rocketweb3 bundles full-stack products and services addressing all the entrepreneurship challenges.<br>
+**Crypto investment obstacle:** The abundance of blockchain and crypto projects coupled with the lack of understanding of the technology makes investments difficult and costly even for professionals. Through our product "Radar", we will aggregate all existing and upcoming opportunities in one place and therefore simplify the information search and selection.<br>
+**Researcher and policymaker:** There is a lack of understanding of regulations with blockchain and cryptocurrencies. Many countries are still in the process of learning and discussing everything related to blockchain and especially the finance sector. This led to a situation where regulations in most of the countries are still unsettled. With a strong focus on Africa, our institutional-grade research ill shed some light on the benefits of the technology and the need of clear and simple regulations.<br>
+
+- Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
+
+While our upcoming and future set of solutions share some similarities with **DoraFactory/OpenSquare Network/Imbue Network**, We have not found any fully similar project and if that was the case we'd be more than happy to leverage it and improve our business proposal.<br>
+Our value proposition and what makes RocketWeb3 different is is our holistic approach including various operating models benefiting at the same time to blockchain protocol as well as to end-users and other actors.
+
+## Team
+
+**Core team**
+![CoreTeam](https://github.com/rocketdlt/grant/blob/main/Tean%20RocketWeb3.PNG)
+
+### Team members
+
+- Yacouba Mouanfon Ngouh
+- Yehuda Rotenberg
+- Miki Zlatanov
+- Emanuel Movtady
+
+### Contact
+
+- **Contact Name:** Yacouba Mouanfon Ngouh
+- **Contact Email:** y.mouanfon@impactcapital.ch
+- **Website:** https://www.rocketweb3.io
+
+### Legal Structure
+
+- **Registered Address:** Chemin du bois gentils 25, 1018 Lausanne - Vaud Switzerland
+- **Registered Legal Entity:** Impact Capital Management LLC ( https://www.zefix.ch/en/search/entity/list/firm/1012227)
+
+### Team's experience
+
+Based in Switzerland and Israel, RocketDLT core team is currently made up of three non tech profiles, including one former JPMorgan and Barclays Bank employees as well a transformation advisor engineer. Our team has experience structuring great products with deep understanding of market needs and product-market fit. 
+
+### Team Code Repos
+There are no repos code yet but our 2022 pipeline is already full
+
+- https://swissgoldbroker.com
+- https://swisscofunding.ch
+- https://www.partnerscapital.digital
+
+### Team LinkedIn Profiles
+- https://www.linkedin.com/in/mouanfon/
+- https://www.linkedin.com/in/yehuda-rotenberg-3834a5183/
+- https://www.linkedin.com/in/miki-zlatanov-81787937/
+- https://www.linkedin.com/in/emanuel-movtady-8b230012b/
+
+### Team Github
+There are no repos code yet but our 2022 pipeline is already full
+
+## Development Roadmap :
+
+### Overview
+
+- **Total Estimated Duration:**  14 months
+- **Full-Time Equivalent (FTE):** 10 FTE
+- **Total Costs:** to be defined
+
+### Milestone 1: RFP/Radar/Research Canvas
+Through this milestone, we want to have a quasi-exhaustive radar product, listing all the opportunities of the Polkadot/Kusama ecosystem together with UX improvement. We will also validate the research canvas and publish student bachelor and master thesis request for prosposal. That will also be the opportunity to produce some weekly and monthly publications on Polkadot/Kusama protocol. 
+
+| Activities | FTE |
+| ------------- |------------- |
+|**Product manager:** Radar  |01 |
+|**Community manager:** <br>Linkedin, Facebook, Reddit, Discord, Telegram, Medium, Twitter<br> Agora, Stack, Riot, GitLab and Github  |01 |
+|**Media Manager/writer;** Weekly, monthly, and Newsletter publication  |01 |
+|**Kusama/Polkadot Developer:** Learning-by-doing program  |01 |
+|**Project manager**  |01 |
+|Total FTE  |**06** |
+
+  - **Estimated duration:** 1 month
+  - **FTE:** 06
+  - **Costs:** 10,000 USD
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 01 |Radar| Complete list of staking, current and upcoming Polkadot/Kusama ICO list together with Defi, Gaming, Metaverse, and all the ecosystem investment opportunity |
+| 02 |Weekly publications|Four markets outlook trend release |
+| 03 |Monthly publication | One market outlook of macro and sector trends on the DeFi, NFT, Gaming, Metaverse, L1/L2 and Middleware.etc release|
+| 04 |Learning-by-doing program set-up|Curriculum and workaround validation together wuth technical roadmap and plan release by the first trainee|
+| 05 |Request for proposal students | Bachelor and Master thesis request for proposals|
+| 06 |Request for proposal training partners| Additional project oriented training partner for Kusama/Polkadot developer tech capacity building|
+
+## Future Plans
+
+### Milestone 2: RFP for additional training partner/Research/ News and tech
+Through this milestone, we will kick start the tech side of Rocketweb3, accelerate reasearch and news publication. We will also release additional request for proposal for training partners.
+
+  - **Estimated duration:** 1 month
+  - **FTE:** 08
+  - **Costs:** 40,000 USD
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 01 |Radar| Complete list of staking, current and upcoming Polkadot/Kusama ICO list together with Defi, Gaming, Metaverse, and all the ecosystem investment opportunity |
+| 02 |Weekly publications|Four markets outlook trend release |
+| 03 |Monthly publication | One market outlook of macro and sector trends on the DeFi, NFT, Gaming, Metaverse, L1/L2 and Middleware.etc release|
+| 04 |Learning-by-doing program set-up|Swissgoldbroker.com data models and specifications of functionalities;Documentation of core components, protocols, architecture;Technical plan and roadmap|
+| 05 |Bachelor and Master thesis |Selection of Bachelor and Master thesis with W3foundoation approval|
+| 06 |Learning-by-doing program set-up| Additional project-oriented(RDLT DAO) trainee for Kusama/Polkadot developer tech capacity building|
+
+### Milestone 3: RFP for additional training partner/Research/ News and tech / DAO governance and securitization of incubated project model
+
+  - **Estimated duration:** 1 month
+  - **FTE:** 09
+  - **Costs:** 40,000 USD
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 01 |Radar| Complete list of staking, current and upcoming Polkadot/Kusama ICO list together with Defi, Gaming, Metaverse, and all the ecosystem investment opportunity |
+| 02 |Weekly publications|Four markets outlook trend release |
+| 03 |Bachelor and Master thesis |Follow-up and monitoring|
+| 04 |Monthly publication | One market outlook of macro and sector trends on the DeFi, NFT, Gaming, Metaverse, L1/L2 and Middleware.etc release|
+| 05 |RDLT DAO|Data models and specifications of functionalities;Documentation of core components, protocols, architecture;Technical plan and roadmap|
+
+### Milestone 4:  News/Research/Publication and First piece Kusama or Polkadot piece of tech release 
+
+  - **Estimated Duration:** 1 month
+  - **FTE:** 10
+  - **Costs:** xxxx USD
+
+- **Deliverables** : Piece of Polkadot or Kusama tech
+
+### Milestone 5:  News/Research/Publication/Swisscofunding learning.by-doing building..etc..
+
+  - **Estimated Duration:** 1 month
+  - **FTE:** 11
+  - **Costs:** xxxx USD
+
+- **Deliverables** : Piece of Polkadot or Kusama tech
+
+
+### Milestone 6  — RDLT DAO development and UX/UI
+- **Estimated Duration:** 1 month
+- **FTE:** 15
+- **Costs:** xxxx USD
+ -  Specifications:
+    -  RDLT development team enhancement
+    -  RDLT HDL and RWD token final tests
+    -  Business model canvas of the second pipeline deal(partnerscapital.digital)
+    -  Data model and core functionalities of the second pipeline deal (partnerscapital.digital)
+    -  Technical plan and roadmap of the second pipeline deal(partnerscapital.digital)
+    -  RDLT DAO gouvernance model, rules and policies improvement
+  - **Deliverables:** Piece of Polkadot or Kusama tech
+
+    
+### Milestone 7  —  RDLT DAO development and UX/UI
+
+- **Estimated Duration:** 1 month
+- **FTE:** 17
+- **Costs:** xxxx USD
+ -  Specifications:
+    -  RDLT ecosystem development strengthening
+    -  User interface integration
+    -  Second pipeline deal MVP (partnerscapital.digital)
+   - **Deliverables:** Piece of Polkadot or Kusama tech**
+
+### Milestone 8  — RDLT DAO development and UX/UI
+- **Estimated Duration:** 1 month
+- **FTE:** 19
+- **Costs:** xxxx USD
+ -  Specifications:
+    -  RDLT development team enhancement
+ - **Deliverables:** Piece of Polkadot or Kusama tech**
+
+
+ ### Milestone 9 — RDLT DAO development / third pipeline deal MVP
+
+- **Estimated Duration:** 1 month
+- **FTE:** 21
+- **Costs:** xxx USD
+  Specifications:
+    -  RDLT development team enhancement
+    -  RDLT HDL and RWD token private sale
+    -  Third pipeline deal MVP (CarboNFT.io)
+    -  RDLT DAO gouvernance model, rules and policies improvement
+   - **Deliverables:** Piece of Polkadot or Kusama tech**
+    
+    
+  ### Milestone 10 — RDLT DAO and release and testing of further milestone / Third pipeline deal independent grant request
+
+- **Estimated Duration:** 1 month
+- **FTE:** 23
+- **Costs:** xxx USD
+  Specifications:
+    -  RDLT development team enhancement
+    -  Third pipeline deal grant request (CarboNFT.io)
+    -  RDLT DAO gouvernance model, rules and policies improvement
+ - **Deliverables:** Piece of Polkadot or Kusama tech**
+
+
+ ### Milestone 11  — RDLT DAO and released and testing of further milestone / Fourth pipeline deal 
+- **Estimated Duration:** 1 month
+- **FTE:** 24
+- **Costs:** xxx USD
+Specifications:
+    -  RDLT development team enhancement
+    -  Third pipeline business canvas (agriland.io)
+    -  RDLT DAO gouvernance model, rules and policies improvement
+  - **Deliverables:** Piece of Polkadot or Kusama tech**
+
+
+ ### Milestone 12  — RDLT DAO and released and testing of further milestone / Fourth pipeline deal 
+- **Estimated Duration:** 1 month
+- **FTE:** 25
+- **Costs:** xxx USD
+Specifications:
+    -  RDLT development team enhancement
+    -  RDLT HDL and RWD token private sale
+    -  Data model and core functionalities of the third pipeline deal (agriland.io)
+    -  Technical plan and roadmap of the third pipeline deal(agriland.io)
+    -  RDLT DAO gouvernance model, rules and policies improvement
+  - **Deliverables:** Piece of Polkadot or Kusama tech**
+   
+ ### Milestone 13  —  RDLT DAO and released and testing of further milestone / Fourth pipeline deal MVP
+- **Estimated Duration:** 1 month
+- **FTE:** 25
+- **Costs:** xxx USD
+Specifications:
+    -  RDLT development team enhancement
+    -  Fourth pipeline deal MVP (agriland.io)
+    -  RDLT DAO gouvernance model, rules and policies improvement
+  - **Deliverables:** Piece of Polkadot or Kusama tech**
+   
+  ### Milestone 14  — RDLT DAO and released and testing of further milestone / Fourth pipeline deal grant request
+- **Estimated Duration:** 1 month
+- **FTE:** 25
+- **Costs:** xxx USD
+Specifications:
+    -  RDLT development team enhancement
+    -  Fourth pipeline deal independent grant request (agriland.io)
+    -  RDLT DAO gouvernance model, rules and policies improvement
+  - **Deliverables:** Piece of Polkadot or Kusama tech**
+     
+## Additional Information
+Substrate based Polkadot or Kusama constitute the backbone of our strategy and long-term vision and will guide the approach we will take for other protocol grant requests.
